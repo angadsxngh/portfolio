@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: "Monsterrat";
+    src: url(../public/Monsterrat/Montserrat-VariableFont_wght.ttf);
+}
+
+
+@font-face{
+    font-family: "DM Serif Display";
+    src: url(../public/DmSerifDisplay/DMSerifDisplay-Regular.ttf);
+}
+
+
+
+*{
+    font-family: "DM Serif Display", "sans-serif";
+}
